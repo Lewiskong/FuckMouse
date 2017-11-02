@@ -16,7 +16,6 @@ project(FuckMouse)
 
     set(SOURCE_FILE
         main.cpp
-        util.cpp
         ${header_path}/xinputsimulator.h
         ${SFML_HEADER_PATH}/SFML/Window.hpp)
 
